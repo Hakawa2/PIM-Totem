@@ -1,0 +1,24 @@
+\documentclass[12pt,a4paper]{extarticle}
+\include{unipStyle}
+\begin{document}
+%Pre Textual
+\include{preTextual/capa}
+\include{preTextual/folhaDeRosto}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\include{preTextual/abreviacoes}
+\include{preTextual/sumario}
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{5}
+%Textual
+\include{textual/1-introducao}
+\include{textual/2-objetivos}
+\include{textual/3-referencialTeorico}
+\include{textual/4-solucaoTecnica}
+\include{textual/5-consideracoesFinais}
+%Pos Textual
+\bibliographystyle{model5-names}
+\bibliography{referencias}
+%%========================================
+\end{document} 
