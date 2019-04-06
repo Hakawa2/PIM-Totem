@@ -9,6 +9,13 @@ A level-1 auxiliary file: textual/3-referencialTeorico.aux
 A level-1 auxiliary file: textual/4-solucaoTecnica.aux
 A level-1 auxiliary file: textual/5-consideracoesFinais.aux
 The style file: model5-names.bst
-I found no \citation commands---while reading file PIM-Toten-Sem-1.aux
 Database file #1: referencias.bib
-(There was 1 error message)
+Warning--entry type for "centros-de-cidadania-estimulam-mulheres-a-valorizar-seus-direitos" isn't style-file defined
+--line 1 of file referencias.bib
+Warning--entry type for "politicas-para-mulheres-tem-orcamento-reforcado-com-proposta-de-vereadoras" isn't style-file defined
+--line 9 of file referencias.bib
+Warning--entry type for "cptm-demandas-publico-feminino" isn't style-file defined
+--line 17 of file referencias.bib
+Warning--entry type for "pesquisa-de-caracterizacao-socioeconomica-do-usuario" isn't style-file defined
+--line 26 of file referencias.bib
+(There were 4 warnings)

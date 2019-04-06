@@ -1,4 +1,4 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{4}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -11,5 +11,36 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Misc
+\bibitem[{{CPTM}(2018)}]{cptm-demandas-publico-feminino}
+\bibinfo{author}{{CPTM}} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Cptm realiza pesquisa para identificar as demandas do
+  público feminino}.
+\newblock \URLprefix
+  \url{https://www.cptm.sp.gov.br/noticias/Pages/CPTM-realiza-pesquisa-para-identificar-as-demandas-do-p\%C3\%BAblico-feminino.aspx}.
+%Type = Misc
+\bibitem[{{Gerência de Operações do
+  Metrô}(2016)}]{pesquisa-de-caracterizacao-socioeconomica-do-usuario}
+\bibinfo{author}{{Gerência de Operações do Metrô}} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{Caracterização socioeconômica dos usuários e seus
+  hábitos de viagem}.
+\newblock \URLprefix
+  \url{https://transparencia.metrosp.com.br/sites/default/files/Pesquisa\%20de\%20Caracteriza\%C3\%A7\%C3\%A3o\%20Socioecon\%C3\%B4mica\%20dos\%20Usu\%C3\%A1rios\%20e\%20seus\%20H\%C3\%A1bitos\%20de\%20Viagem\%20-\%202016.pdf}.
+%Type = Misc
+\bibitem[{{Secretaria Especial de
+  Comunicação}({\natexlab{a}})}]{centros-de-cidadania-estimulam-mulheres-a-valorizar-seus-direitos}
+\bibinfo{author}{{Secretaria Especial de Comunicação}} ({\natexlab{a}}).
+\newblock \bibinfo{title}{Centros de cidadania estimulam mulheres a valorizar
+  seus direitos}.
+\newblock \URLprefix
+  \url{http://www.capital.sp.gov.br/noticia/centros-de-cidadania-estimulam-mulheres-a-valorizar-seus-direitos}.
+%Type = Misc
+\bibitem[{{Secretaria Especial de
+  Comunicação}({\natexlab{b}})}]{politicas-para-mulheres-tem-orcamento-reforcado-com-proposta-de-vereadoras}
+\bibinfo{author}{{Secretaria Especial de Comunicação}} ({\natexlab{b}}).
+\newblock \bibinfo{title}{Políticas para mulheres têm orçamento reforçado
+  com proposta de vereadoras}.
+\newblock \URLprefix
+  \url{http://www.saopaulo.sp.leg.br/blog/politicas-para-mulheres-tem-orcamento-reforcado-com-proposta-de-vereadoras/}.
 
 \end{thebibliography}
