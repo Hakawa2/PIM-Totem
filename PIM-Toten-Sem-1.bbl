@@ -1,4 +1,4 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{8}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -11,6 +11,12 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{BITNER(2000)}]{bitner-service-encounters}
+\bibinfo{author}{BITNER, S.~W., M. J.;~BROWN} (\bibinfo{year}{2000}).
+\newblock \bibinfo{title}{Technology infusion in service encounters}.
+\newblock {\it \bibinfo{journal}{Journal of the Academy of Marketing
+  Science}\/},  {\it \bibinfo{volume}{28, n.1}\/}, \bibinfo{pages}{138--149}.
 %Type = Misc
 \bibitem[{{CPTM}(2018)}]{cptm-demandas-publico-feminino}
 \bibinfo{author}{{CPTM}} (\bibinfo{year}{2018}).
@@ -18,6 +24,14 @@
   público feminino}.
 \newblock \URLprefix
   \url{https://www.cptm.sp.gov.br/noticias/Pages/CPTM-realiza-pesquisa-para-identificar-as-demandas-do-p\%C3\%BAblico-feminino.aspx}.
+%Type = Article
+\bibitem[{DABHOLKAR(1996)}]{dabholkar-service-encounters}
+\bibinfo{author}{DABHOLKAR, M.~J.} (\bibinfo{year}{1996}).
+\newblock \bibinfo{title}{Consumer evaluations of new technology-based
+  self-service options: An investigation of alternative models of service
+  quality}.
+\newblock {\it \bibinfo{journal}{International Journal of Research in
+  Marketing}\/},  {\it \bibinfo{volume}{13, n.1}\/}, \bibinfo{pages}{29--51}.
 %Type = Misc
 \bibitem[{{Gerência de Operações do
   Metrô}(2016)}]{pesquisa-de-caracterizacao-socioeconomica-do-usuario}
@@ -26,6 +40,11 @@
   hábitos de viagem}.
 \newblock \URLprefix
   \url{https://transparencia.metrosp.com.br/sites/default/files/Pesquisa\%20de\%20Caracteriza\%C3\%A7\%C3\%A3o\%20Socioecon\%C3\%B4mica\%20dos\%20Usu\%C3\%A1rios\%20e\%20seus\%20H\%C3\%A1bitos\%20de\%20Viagem\%20-\%202016.pdf}.
+%Type = Article
+\bibitem[{SANDERS(2011)}]{autoatendimento-em-aeroportos}
+\bibinfo{author}{SANDERS, S.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Aceitação de tecnologia : uma análise da atitude
+  de passageiros diante de totens de autoatendimento em aeroportos}, .
 %Type = Misc
 \bibitem[{{Secretaria Especial de
   Comunicação}({\natexlab{a}})}]{centros-de-cidadania-estimulam-mulheres-a-valorizar-seus-direitos}
@@ -42,5 +61,13 @@
   com proposta de vereadoras}.
 \newblock \URLprefix
   \url{http://www.saopaulo.sp.leg.br/blog/politicas-para-mulheres-tem-orcamento-reforcado-com-proposta-de-vereadoras/}.
+%Type = Article
+\bibitem[{WALKER(2002)}]{walker-service-delivery}
+\bibinfo{author}{WALKER, M. C. H. R. F.~H., R. H.;~LEES}
+  (\bibinfo{year}{2002}).
+\newblock \bibinfo{title}{Technology‐enabled service delivery: An
+  investigation of reasons affecting customer adoption and rejection}.
+\newblock {\it \bibinfo{journal}{International Journal of Service Industry
+  Management}\/},  {\it \bibinfo{volume}{13, n.1}\/}, \bibinfo{pages}{91--106}.
 
 \end{thebibliography}
