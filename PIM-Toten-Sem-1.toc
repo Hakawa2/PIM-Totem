@@ -3,11 +3,11 @@
 \contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{5}{section.1}% 
 \contentsline {subsection}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{5}{subsection.1.1}% 
 \contentsline {section}{\numberline {2}Objetivos}{7}{section.2}% 
-\contentsline {subsection}{\numberline {2.1}Objetivos Especificos}{7}{subsection.2.1}% 
-\contentsline {subsection}{\numberline {2.2}Objetivos Tecnologicos}{7}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.1}Objetivos Espec\IeC {\'\i }ficos}{7}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Objetivos Tecnol\IeC {\'o}gicos}{7}{subsection.2.2}% 
 \contentsline {section}{\numberline {3}Referencial Te\IeC {\'o}rico}{8}{section.3}% 
 \contentsline {subsection}{\numberline {3.1}Justificativa do uso de autoatendimento}{8}{subsection.3.1}% 
 \contentsline {subsection}{\numberline {3.2}Aceita\IeC {\c c}\IeC {\~a}o de tecnologias por parte do p\IeC {\'u}blico}{8}{subsection.3.2}% 
-\contentsline {subsection}{\numberline {3.3}Servi\IeC {\c c}os publicos}{8}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.3}Servi\IeC {\c c}os p\IeC {\'u}blicos}{8}{subsection.3.3}% 
 \contentsline {section}{\numberline {4}Solu\IeC {\c c}\IeC {\~a}o T\IeC {\'e}cnica}{9}{section.4}% 
 \contentsline {section}{\numberline {5}Considera\IeC {\c c}\IeC {\~o}es Finais}{10}{section.5}% 

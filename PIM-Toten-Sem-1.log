@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.2)  28 APR 2019 09:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.2)  28 APR 2019 17:05
 entering extended mode
 **./PIM-Toten-Sem-1.tex
 (PIM-Toten-Sem-1.tex
@@ -1237,7 +1237,7 @@ extual/abreviacoes.aux) (preTextual/sumario.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 Package rerunfilecheck Info: File `PIM-Toten-Sem-1.out' has not changed.
-(rerunfilecheck)             Checksum: A85B00E55C3D7096DF3FEA0AD521E0FC;837.
+(rerunfilecheck)             Checksum: 3171B5D622AA884BF478325BAA4611AD;846.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
  ) 
 Here is how much of TeX's memory you used:
@@ -1254,9 +1254,9 @@ ts/t1xtt.pfb><C:/Users/mfsilva/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/helvetic/uhvb8a.pfb><C:/Users/mfsilva/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb><C:/Users/mfsilva/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PIM-Toten-Sem-1.pdf (11 pages, 76321 bytes).
+Output written on PIM-Toten-Sem-1.pdf (11 pages, 76540 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
+ 188 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
