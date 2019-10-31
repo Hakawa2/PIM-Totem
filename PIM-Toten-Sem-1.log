@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.29)  30 OCT 2019 23:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.29)  31 OCT 2019 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,19 +1077,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 File: ./images/2-1.png Graphic file (type png)
 <use ./images/2-1.png>
 Package pdftex.def Info: ./images/2-1.png  used on input line 20.
-(pdftex.def)             Requested size: 301.11874pt x 200.74765pt.
+(pdftex.def)             Requested size: 250.93811pt x 150.55847pt.
+ [8
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8
-
-
-] [9 <./images/2-1.png>]
+ <./images/2-1.png>] [9]
 <./images/2-10.jpg, id=258, 387.69844pt x 219.06844pt>
 File: ./images/2-10.jpg Graphic file (type jpg)
 <use ./images/2-10.jpg>
-Package pdftex.def Info: ./images/2-10.jpg  used on input line 49.
+Package pdftex.def Info: ./images/2-10.jpg  used on input line 51.
 (pdftex.def)             Requested size: 301.13165pt x 200.75317pt.
 
 
@@ -1099,86 +1095,86 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./images/2-3.jpg, id=275, 879.285pt x 557.08125pt>
 File: ./images/2-3.jpg Graphic file (type jpg)
 <use ./images/2-3.jpg>
-Package pdftex.def Info: ./images/2-3.jpg  used on input line 85.
+Package pdftex.def Info: ./images/2-3.jpg  used on input line 87.
 (pdftex.def)             Requested size: 301.12646pt x 200.7446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-[13 <./images/2-3.jpg>]
-<./images/2-4.jpg, id=293, 1606.0pt x 965.6075pt>
+[13 <./images/2-3.jpg>] [14]
+<./images/2-4.jpg, id=298, 1606.0pt x 965.6075pt>
 File: ./images/2-4.jpg Graphic file (type jpg)
 <use ./images/2-4.jpg>
-Package pdftex.def Info: ./images/2-4.jpg  used on input line 119.
+Package pdftex.def Info: ./images/2-4.jpg  used on input line 123.
 (pdftex.def)             Requested size: 301.12427pt x 200.75027pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+[15 <./images/2-4.jpg>]
+<./images/2-5.png, id=308, 542.025pt x 397.485pt>
+File: ./images/2-5.png Graphic file (type png)
+<use ./images/2-5.png>
+Package pdftex.def Info: ./images/2-5.png  used on input line 146.
+(pdftex.def)             Requested size: 291.10117pt x 250.94453pt.
+<./images/2-6.png, id=312, 963.6pt x 433.62pt>
+File: ./images/2-6.png Graphic file (type png)
+<use ./images/2-6.png>
+Package pdftex.def Info: ./images/2-6.png  used on input line 161.
+(pdftex.def)             Requested size: 301.12427pt x 150.56506pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-[14] [15 <./images/2-4.jpg>]
-<./images/2-5.png, id=308, 542.025pt x 397.485pt>
-File: ./images/2-5.png Graphic file (type png)
-<use ./images/2-5.png>
-Package pdftex.def Info: ./images/2-5.png  used on input line 142.
-(pdftex.def)             Requested size: 301.13344pt x 200.75563pt.
-<./images/2-6.png, id=312, 963.6pt x 433.62pt>
-File: ./images/2-6.png Graphic file (type png)
-<use ./images/2-6.png>
-Package pdftex.def Info: ./images/2-6.png  used on input line 157.
-(pdftex.def)             Requested size: 301.12427pt x 150.56506pt.
- [16 <./images/2-5.png> <./images/2-6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
-
- []
-
-
+[16 <./images/2-5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-
+[17 <./images/2-6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
-<./images/2-7.jpg, id=332, 423.0204pt x 192.9609pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+<./images/2-7.jpg, id=330, 423.0204pt x 192.9609pt>
 File: ./images/2-7.jpg Graphic file (type jpg)
 <use ./images/2-7.jpg>
-Package pdftex.def Info: ./images/2-7.jpg  used on input line 194.
+Package pdftex.def Info: ./images/2-7.jpg  used on input line 198.
 (pdftex.def)             Requested size: 301.13406pt x 200.75703pt.
-[18 <./images/2-7.jpg>] [19]
-Overfull \hbox (4.45456pt too wide) in paragraph at lines 245--246
+[18 <./images/2-7.jpg>] [19] [20]
+Overfull \hbox (4.45456pt too wide) in paragraph at lines 249--250
 []\T1/pxss/bx/n/12 Augusto Ce-sar Scafi 2\TS1/pxss/bx/n/12 º \T1/pxss/bx/n/12 S
 e-mes-tre, Ha-kawã Al-ves 2\TS1/pxss/bx/n/12 º \T1/pxss/bx/n/12 Se-mes-tre, Le-
 tí-cia Sayuri
  []
 
-[20] [21])
+[21])
 \openout2 = `textual/3-referencialTeorico.aux'.
 
  (./textual/3-referencialTeorico.tex
@@ -1440,7 +1436,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
 Here is how much of TeX's memory you used:
  14878 strings out of 494500
  218207 string characters out of 6175658
- 326019 words of memory out of 5000000
+ 327019 words of memory out of 5000000
  17992 multiletter control sequences out of 15000+600000
  41653 words of font info for 81 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
@@ -1451,7 +1447,7 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvet
 ic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
 b>
-Output written on PIM-Toten-Sem-1.pdf (43 pages, 4120396 bytes).
+Output written on PIM-Toten-Sem-1.pdf (43 pages, 4120356 bytes).
 PDF statistics:
  662 PDF objects out of 1000 (max. 8388607)
  558 compressed objects within 6 object streams
