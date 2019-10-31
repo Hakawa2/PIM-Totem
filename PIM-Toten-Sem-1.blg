@@ -1,51 +1,97 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: PIM-Toten-Sem-1.aux
-A level-1 auxiliary file: preTextual/capa.aux
-A level-1 auxiliary file: preTextual/folhaDeRosto.aux
-A level-1 auxiliary file: preTextual/abreviacoes.aux
-A level-1 auxiliary file: preTextual/sumario.aux
-A level-1 auxiliary file: textual/1-introducao.aux
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: PIM-Toten-Sem-1.aux
 A level-1 auxiliary file: textual/2-objetivos.aux
 A level-1 auxiliary file: textual/3-referencialTeorico.aux
-A level-1 auxiliary file: textual/4-solucaoTecnica.aux
-A level-1 auxiliary file: textual/5-consideracoesFinais.aux
 The style file: model5-names.bst
 Database file #1: referencias.bib
-I was expecting a `,' or a `}'---line 33 of file referencias.bib
- :    
- :    URL = {http://bdm.unb.br/handle/10483/3519},
-(Error may have been on previous line)
+Warning--entry type for "tecnicas-levantamento" isn't style-file defined
+--line 36 of file referencias.bib
+Warning--entry type for "linkedin" isn't style-file defined
+--line 44 of file referencias.bib
+Warning--entry type for "3webbox" isn't style-file defined
+--line 51 of file referencias.bib
+Warning--entry type for "loba" isn't style-file defined
+--line 58 of file referencias.bib
+Warning--entry type for "newtechs" isn't style-file defined
+--line 74 of file referencias.bib
+Repeated entry---line 81 of file referencias.bib
+ : @electronic{newtechs
+ :                     ,
 I'm skipping whatever remains of this entry
-Warning--entry type for "centros-de-cidadania-estimulam-mulheres-a-valorizar-seus-direitos" isn't style-file defined
---line 37 of file referencias.bib
-Warning--entry type for "politicas-para-mulheres-tem-orcamento-reforcado-com-proposta-de-vereadoras" isn't style-file defined
---line 45 of file referencias.bib
-Warning--entry type for "cptm-demandas-publico-feminino" isn't style-file defined
---line 53 of file referencias.bib
-Warning--entry type for "pesquisa-de-caracterizacao-socioeconomica-do-usuario" isn't style-file defined
---line 62 of file referencias.bib
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1612 of file model5-names.bst
-Warning--empty journal in autoatendimento-em-aeroportos
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-Too many commas in name 1 of "WALKER, R. H.; LEES, M. C., HECKER, R.; FRANCIS, H." for entry walker-service-delivery
-while executing---line 1702 of file model5-names.bst
-(There were 13 error messages)
+Warning--entry type for "markeninja" isn't style-file defined
+--line 88 of file referencias.bib
+Warning--entry type for "linkedin-b" isn't style-file defined
+--line 96 of file referencias.bib
+Warning--entry type for "linkedin-c" isn't style-file defined
+--line 103 of file referencias.bib
+Warning--entry type for "get-ninjasMobile" isn't style-file defined
+--line 110 of file referencias.bib
+Warning--entry type for "get-ninjasMobilea" isn't style-file defined
+--line 117 of file referencias.bib
+Warning--entry type for "housoft" isn't style-file defined
+--line 125 of file referencias.bib
+Warning--entry type for "sbg" isn't style-file defined
+--line 132 of file referencias.bib
+Warning--entry type for "sbg-1" isn't style-file defined
+--line 141 of file referencias.bib
+Warning--entry type for "get-ninjas" isn't style-file defined
+--line 148 of file referencias.bib
+Warning--entry type for "get-ninjas-a" isn't style-file defined
+--line 155 of file referencias.bib
+Warning--entry type for "nexus-mod" isn't style-file defined
+--line 165 of file referencias.bib
+Warning--entry type for "catho" isn't style-file defined
+--line 172 of file referencias.bib
+Warning--entry type for "catho-1" isn't style-file defined
+--line 179 of file referencias.bib
+Warning--entry type for "catho-2" isn't style-file defined
+--line 187 of file referencias.bib
+Warning--entry type for "catho-3" isn't style-file defined
+--line 194 of file referencias.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty journal in machado-2011
+Warning--empty journal in sommerville
+You've used 23 entries,
+            3390 wiz_defined-function locations,
+            763 strings with 8358 characters,
+and the built_in function-call counts, 9586 in all, are:
+= -- 735
+> -- 230
+< -- 23
++ -- 93
+- -- 69
+* -- 719
+:= -- 1499
+add.period$ -- 49
+call.type$ -- 23
+change.case$ -- 138
+chr.to.int$ -- 22
+cite$ -- 25
+duplicate$ -- 866
+empty$ -- 785
+format.name$ -- 92
+if$ -- 1776
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 141
+newline$ -- 110
+num.names$ -- 92
+pop$ -- 474
+preamble$ -- 1
+purify$ -- 115
+quote$ -- 0
+skip$ -- 284
+stack$ -- 0
+substring$ -- 293
+swap$ -- 381
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 204
+warning$ -- 2
+while$ -- 69
+width$ -- 0
+write$ -- 273
+(There was 1 error message)

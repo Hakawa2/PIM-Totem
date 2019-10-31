@@ -1,0 +1,489 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.28)  28 SEP 2019 20:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**folhaDeRosto.tex
+(./folhaDeRosto.tex
+LaTeX2e <2018-12-01>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \normalsize
+               {\textbf{UNIVERSIDADE PAULISTA - UNIP}}\\[0.3pc]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (91.40227pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 UNIVERSIDADE 
+ []
+
+
+Overfull \hbox (57.52745pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 PAULISTA 
+ []
+
+
+Overfull \hbox (3.83331pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 - 
+ []
+
+
+Overfull \hbox (30.06927pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 UNIP 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \normalsize
+               {\textbf{Análise e Desenvolvimento de Sistemas}}\\[8pc]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (36.86922pt too wide) in paragraph at lines 5--5
+ []\OT1/cmr/bx/n/10 An^^Salise 
+ []
+
+
+Overfull \hbox (5.27081pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 e 
+ []
+
+
+Overfull \hbox (17.92352pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 De- 
+ []
+
+
+Overfull \hbox (20.02905pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 sen- 
+ []
+
+
+Overfull \hbox (27.79152pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 volvi- 
+ []
+
+
+Overfull \hbox (31.14568pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 mento 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 Sis- 
+ []
+
+
+Overfull \hbox (29.45259pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 temas 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...ntros de Cidadania da Mulher}}\end{center}}
+                                                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 6--6
+ []$[]$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...e suporte, acessibilidade e engajamento.}}
+                                                  \\[1pc]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (434.52756pt too wide) in paragraph at lines 10--11
+[]| $[]$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...textbf{Orientador:} Ricardos Raschiatore}}
+                                                  \\[1pc]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (449.52756pt too wide) in paragraph at lines 12--13
+| $[]$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \normalsize
+                {\textbf{Alberto N. Biguetti, Ana Flávia Porto, Hakawã Alv...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (38.8262pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Alberto 
+ []
+
+
+Overfull \hbox (12.19438pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 N. 
+ []
+
+
+Overfull \hbox (44.11783pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Biguetti, 
+ []
+
+
+Overfull \hbox (20.67348pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Ana 
+ []
+
+
+Overfull \hbox (30.87479pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Fl^^Savia 
+ []
+
+
+Overfull \hbox (31.44429pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Porto, 
+ []
+
+
+Overfull \hbox (39.18723pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Hakaw~a 
+ []
+
+
+Overfull \hbox (30.6401pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Alves, 
+ []
+
+
+Overfull \hbox (33.7498pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Let^^S^^Pcia 
+ []
+
+
+Overfull \hbox (32.04843pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Sayuri 
+ []
+
+
+Overfull \hbox (16.49991pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Fu- 
+ []
+
+
+Overfull \hbox (10.54161pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 ji- 
+ []
+
+
+Overfull \hbox (26.4582pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 mori, 
+ []
+
+
+Overfull \hbox (43.56363pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Matheus 
+ []
+
+
+Overfull \hbox (23.79846pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Silva 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \normalsize
+                {\textbf{Campinas}}\\[1pc]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (49.57745pt too wide) in paragraph at lines 17--17
+ []\OT1/cmr/bx/n/10 Campinas 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \normalsize
+                {\textbf{2019}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 18--19
+ []\OT1/cmr/bx/n/10 2019 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+! Emergency stop.
+<*> folhaDeRosto.tex
+                    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 494561
+ 258 string characters out of 6177454
+ 54059 words of memory out of 5000000
+ 3773 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 19i,4n,17p,233b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
