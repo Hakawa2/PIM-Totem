@@ -47,4 +47,4 @@
 \contentsline {subsection}{\numberline {3.3}Mobile}{31}{subsection.3.3}% 
 \contentsline {subsubsection}{\numberline {3.3.1}Estudo de caso - LinkedIn}{31}{subsubsection.3.3.1}% 
 \contentsline {subsubsection}{\numberline {3.3.2}Estudo de Caso \IeC {\textendash } Catho}{33}{subsubsection.3.3.2}% 
-\contentsline {subsubsection}{\numberline {3.3.3}Estudo de Caso \IeC {\textendash } GetNinjas}{36}{subsubsection.3.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Estudo de Caso \IeC {\textendash } GetNinjas}{35}{subsubsection.3.3.3}% 
