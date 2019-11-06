@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.29)  5 NOV 2019 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.29)  6 NOV 2019 06:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1141,30 +1141,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
  []
 
 [17 <./images/2-6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-<./images/2-7.jpg, id=372, 423.0204pt x 192.9609pt>
+<./images/2-7.jpg, id=373, 423.0204pt x 192.9609pt>
 File: ./images/2-7.jpg Graphic file (type jpg)
 <use ./images/2-7.jpg>
-Package pdftex.def Info: ./images/2-7.jpg  used on input line 210.
+Package pdftex.def Info: ./images/2-7.jpg  used on input line 217.
 (pdftex.def)             Requested size: 301.13406pt x 190.71977pt.
 [19 <./images/2-7.jpg>] [20] [21])
 \openout2 = `textual/3-referencialTeorico.aux'.
 
  (./textual/3-referencialTeorico.tex
-<./images/prothues.jpeg, id=397, 642.4pt x 481.8pt>
+<./images/prothues.jpeg, id=398, 642.4pt x 481.8pt>
 File: ./images/prothues.jpeg Graphic file (type jpg)
 <use ./images/prothues.jpeg>
 Package pdftex.def Info: ./images/prothues.jpeg  used on input line 18.
@@ -1173,21 +1178,21 @@ Package pdftex.def Info: ./images/prothues.jpeg  used on input line 18.
 
 
  <./images/prothues.jpeg>]
-<./images/agenda.jpg, id=407, 2055.68pt x 1322.9425pt>
+<./images/agenda.jpg, id=408, 2055.68pt x 1322.9425pt>
 File: ./images/agenda.jpg Graphic file (type jpg)
 <use ./images/agenda.jpg>
 Package pdftex.def Info: ./images/agenda.jpg  used on input line 34.
 (pdftex.def)             Requested size: 401.49902pt x 200.73407pt.
  [23 <./images/agenda.jpg>]
-<./images/housoft.png, id=419, 2108.87875pt x 1547.7825pt>
+<./images/housoft.png, id=420, 2108.87875pt x 1547.7825pt>
 File: ./images/housoft.png Graphic file (type png)
 <use ./images/housoft.png>
-Package pdftex.def Info: ./images/housoft.png  used on input line 55.
+Package pdftex.def Info: ./images/housoft.png  used on input line 51.
 (pdftex.def)             Requested size: 401.4956pt x 200.74644pt.
-<./images/housoft1.jpg, id=422, 1003.75pt x 722.7pt>
+<./images/housoft1.jpg, id=423, 1003.75pt x 722.7pt>
 File: ./images/housoft1.jpg Graphic file (type jpg)
 <use ./images/housoft1.jpg>
-Package pdftex.def Info: ./images/housoft1.jpg  used on input line 62.
+Package pdftex.def Info: ./images/housoft1.jpg  used on input line 58.
 (pdftex.def)             Requested size: 401.50821pt x 200.7446pt.
 
 
@@ -1197,122 +1202,121 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./images/linkedin1.png, id=438, 602.25pt x 318.18875pt>
 File: ./images/linkedin1.png Graphic file (type png)
 <use ./images/linkedin1.png>
-Package pdftex.def Info: ./images/linkedin1.png  used on input line 90.
+Package pdftex.def Info: ./images/linkedin1.png  used on input line 86.
 (pdftex.def)             Requested size: 401.52045pt x 200.74641pt.
 LaTeX Font Info:    Font shape `T1/pxss/bx/it' in size <12> not available
-(Font)              Font shape `T1/pxss/bx/sl' tried instead on input line 101.
-
+(Font)              Font shape `T1/pxss/bx/sl' tried instead on input line 97.
  [26 <./images/linkedin1.png>]
-Overfull \hbox (0.8906pt too wide) in paragraph at lines 127--128
+Overfull \hbox (0.8906pt too wide) in paragraph at lines 123--124
 []\T1/pxss/m/n/12 Assinantes têm acesso a al-guns ser-vi-ços ex-clu-si-vos, os 
 quais po-dem, por exem-
  []
 
 [27]
-<./images/cattho.png, id=454, 1371.1225pt x 770.88pt>
+<./images/cattho.png, id=455, 1371.1225pt x 770.88pt>
 File: ./images/cattho.png Graphic file (type png)
 <use ./images/cattho.png>
-Package pdftex.def Info: ./images/cattho.png  used on input line 138.
-(pdftex.def)             Requested size: 341.27342pt x 130.48326pt.
- [28 <./images/cattho.png>]
-<./images/cattho1.png, id=464, 1371.1225pt x 770.88pt>
+Package pdftex.def Info: ./images/cattho.png  used on input line 134.
+(pdftex.def)             Requested size: 341.27342pt x 110.40439pt.
+<./images/cattho1.png, id=458, 1371.1225pt x 770.88pt>
 File: ./images/cattho1.png Graphic file (type png)
 <use ./images/cattho1.png>
-Package pdftex.def Info: ./images/cattho1.png  used on input line 150.
-(pdftex.def)             Requested size: 381.42201pt x 150.56213pt.
-<./images/cattho2.png, id=467, 1371.1225pt x 770.88pt>
+Package pdftex.def Info: ./images/cattho1.png  used on input line 146.
+(pdftex.def)             Requested size: 331.23105pt x 120.4497pt.
+<./images/cattho2.png, id=461, 1371.1225pt x 770.88pt>
 File: ./images/cattho2.png Graphic file (type png)
 <use ./images/cattho2.png>
-Package pdftex.def Info: ./images/cattho2.png  used on input line 157.
+Package pdftex.def Info: ./images/cattho2.png  used on input line 153.
 (pdftex.def)             Requested size: 381.42201pt x 150.56213pt.
-<./images/cattho3.png, id=470, 1371.1225pt x 770.88pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/cattho3.png, id=464, 1371.1225pt x 770.88pt>
 File: ./images/cattho3.png Graphic file (type png)
 <use ./images/cattho3.png>
-Package pdftex.def Info: ./images/cattho3.png  used on input line 164.
+Package pdftex.def Info: ./images/cattho3.png  used on input line 160.
 (pdftex.def)             Requested size: 381.42201pt x 150.56213pt.
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29 <./images/cattho1.png> <./images/cattho2.png>] [30 <./images/cattho3.png>]
-<./images/getninjas.png, id=492, 963.6pt x 566.115pt>
+[28 <./images/cattho.png> <./images/cattho1.png>] [29 <./images/cattho2.png> <.
+/images/cattho3.png>]
+<./images/getninjas.png, id=488, 963.6pt x 566.115pt>
 File: ./images/getninjas.png Graphic file (type png)
 <use ./images/getninjas.png>
-Package pdftex.def Info: ./images/getninjas.png  used on input line 187.
+Package pdftex.def Info: ./images/getninjas.png  used on input line 183.
 (pdftex.def)             Requested size: 391.46155pt x 190.71436pt.
-<./images/getninjas2.png, id=496, 963.6pt x 298.86656pt>
+<./images/getninjas2.png, id=492, 963.6pt x 298.86656pt>
 File: ./images/getninjas2.png Graphic file (type png)
 <use ./images/getninjas2.png>
-Package pdftex.def Info: ./images/getninjas2.png  used on input line 197.
+Package pdftex.def Info: ./images/getninjas2.png  used on input line 193.
 (pdftex.def)             Requested size: 321.1943pt x 120.452pt.
 
-[31 <./images/getninjas.png> <./images/getninjas2.png>]
-<./images/getninjas3.png, id=509, 963.6pt x 432.86719pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./images/getninjas.png>]
+<./images/getninjas3.png, id=505, 963.6pt x 432.86719pt>
 File: ./images/getninjas3.png Graphic file (type png)
 <use ./images/getninjas3.png>
-Package pdftex.def Info: ./images/getninjas3.png  used on input line 208.
+Package pdftex.def Info: ./images/getninjas3.png  used on input line 204.
 (pdftex.def)             Requested size: 401.48921pt x 200.75275pt.
-<./images/linkedinMobile.png, id=513, 697.60625pt x 376.40625pt>
+ [31 <./images/getninjas2.png> <./images/getninjas3.png>]
+<./images/linkedinMobile.png, id=517, 697.60625pt x 376.40625pt>
 File: ./images/linkedinMobile.png Graphic file (type png)
 <use ./images/linkedinMobile.png>
-Package pdftex.def Info: ./images/linkedinMobile.png  used on input line 227.
+Package pdftex.def Info: ./images/linkedinMobile.png  used on input line 223.
 (pdftex.def)             Requested size: 301.12509pt x 150.56557pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[32 <./images/getninjas3.png>]
-<./images/linkedinMobile2.png, id=525, 1003.75pt x 718.685pt>
+ [32 <./images/linkedinMobile.png>]
+<./images/linkedinMobile2.png, id=528, 1003.75pt x 718.685pt>
 File: ./images/linkedinMobile2.png Graphic file (type png)
 <use ./images/linkedinMobile2.png>
-Package pdftex.def Info: ./images/linkedinMobile2.png  used on input line 240.
+Package pdftex.def Info: ./images/linkedinMobile2.png  used on input line 236.
 (pdftex.def)             Requested size: 301.12732pt x 190.7138pt.
- [33 <./images/linkedinMobile.png> <./images/linkedinMobile2.png>]
-<./images/cathoMobile.png, id=538, 367.3725pt x 229.60782pt>
+ [33 <./images/linkedinMobile2.png>]
+<./images/cathoMobile.png, id=539, 367.3725pt x 229.60782pt>
 File: ./images/cathoMobile.png Graphic file (type png)
 <use ./images/cathoMobile.png>
-Package pdftex.def Info: ./images/cathoMobile.png  used on input line 263.
+Package pdftex.def Info: ./images/cathoMobile.png  used on input line 259.
 (pdftex.def)             Requested size: 351.33943pt x 190.72159pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[34]
-Overfull \hbox (0.40814pt too wide) in paragraph at lines 272--273
+[34 <./images/cathoMobile.png>]
+Overfull \hbox (0.40814pt too wide) in paragraph at lines 268--269
 []\T1/pxss/m/n/12 Gerando di-ver-sas va-gas de em-prego para seus usuá-rios, a 
 Catho faz um grande
  []
 
-<./images/cathoMobile1.png, id=547, 1011.02719pt x 244.66406pt>
+<./images/cathoMobile1.png, id=548, 1011.02719pt x 244.66406pt>
 File: ./images/cathoMobile1.png Graphic file (type png)
 <use ./images/cathoMobile1.png>
-Package pdftex.def Info: ./images/cathoMobile1.png  used on input line 278.
+Package pdftex.def Info: ./images/cathoMobile1.png  used on input line 274.
 (pdftex.def)             Requested size: 401.50343pt x 150.56642pt.
-[35 <./images/cathoMobile.png> <./images/cathoMobile1.png>]
-<./images/getNinjasMobile2.jpeg, id=557, 722.7pt x 1284.8pt>
+[35 <./images/cathoMobile1.png>]
+<./images/getNinjasMobile2.jpeg, id=558, 722.7pt x 1284.8pt>
 File: ./images/getNinjasMobile2.jpeg Graphic file (type jpg)
 <use ./images/getNinjasMobile2.jpeg>
-Package pdftex.def Info: ./images/getNinjasMobile2.jpeg  used on input line 292
+Package pdftex.def Info: ./images/getNinjasMobile2.jpeg  used on input line 288
 .
 (pdftex.def)             Requested size: 150.55844pt x 250.93689pt.
  [36 <./images/getninjasMobile2.jpeg>]
 <./images/getNinjasMobile.jpeg, id=569, 722.7pt x 1284.8pt>
 File: ./images/getNinjasMobile.jpeg Graphic file (type jpg)
 <use ./images/getNinjasMobile.jpeg>
-Package pdftex.def Info: ./images/getNinjasMobile.jpeg  used on input line 310.
+Package pdftex.def Info: ./images/getNinjasMobile.jpeg  used on input line 306.
 
 (pdftex.def)             Requested size: 150.55844pt x 190.71204pt.
 <./images/getNinjasMobile3.jpeg, id=573, 722.7pt x 1284.8pt>
 File: ./images/getNinjasMobile3.jpeg Graphic file (type jpg)
 <use ./images/getNinjasMobile3.jpeg>
-Package pdftex.def Info: ./images/getNinjasMobile3.jpeg  used on input line 321
+Package pdftex.def Info: ./images/getNinjasMobile3.jpeg  used on input line 317
 .
 (pdftex.def)             Requested size: 130.4884pt x 150.56213pt.
  [37 <./images/getninjasMobile.jpeg> <./images/getninjasMobile3.jpeg>]
-<./images/getNinjasMobile.png, id=583, 750.805pt x 422.57875pt>
+<./images/getNinjasMobile.png, id=584, 750.805pt x 422.57875pt>
 File: ./images/getNinjasMobile.png Graphic file (type png)
 <use ./images/getNinjasMobile.png>
-Package pdftex.def Info: ./images/getNinjasMobile.png  used on input line 342.
+Package pdftex.def Info: ./images/getNinjasMobile.png  used on input line 338.
 (pdftex.def)             Requested size: 301.13008pt x 170.6405pt.
 ) [38 <./images/getNinjasMobile.png>] (./PIM-Toten-Sem-1.bbl
 LaTeX Font Info:    Try loading font information for T1+pxtt on input line 18.
@@ -1377,8 +1381,8 @@ Package rerunfilecheck Info: File `PIM-Toten-Sem-1.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
  ) 
 Here is how much of TeX's memory you used:
- 14910 strings out of 494500
- 218608 string characters out of 6175658
+ 14911 strings out of 494500
+ 218625 string characters out of 6175658
  329871 words of memory out of 5000000
  18026 multiletter control sequences out of 15000+600000
  41653 words of font info for 81 fonts, out of 8000000 for 9000
@@ -1390,10 +1394,10 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvet
 ic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
 b>
-Output written on PIM-Toten-Sem-1.pdf (42 pages, 2981945 bytes).
+Output written on PIM-Toten-Sem-1.pdf (42 pages, 2980736 bytes).
 PDF statistics:
- 711 PDF objects out of 1000 (max. 8388607)
- 614 compressed objects within 7 object streams
- 153 named destinations out of 1000 (max. 500000)
+ 712 PDF objects out of 1000 (max. 8388607)
+ 615 compressed objects within 7 object streams
+ 154 named destinations out of 1000 (max. 500000)
  456 words of extra memory for PDF output out of 10000 (max. 10000000)
 
