@@ -1,97 +1,147 @@
 This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: PIM-Toten-Sem-1.aux
+A level-1 auxiliary file: preTextual/capa.aux
+A level-1 auxiliary file: preTextual/folhaDeRosto.aux
+A level-1 auxiliary file: preTextual/abreviacoes.aux
+A level-1 auxiliary file: preTextual/sumario.aux
+A level-1 auxiliary file: textual/1-introducao.aux
 A level-1 auxiliary file: textual/2-objetivos.aux
 A level-1 auxiliary file: textual/3-referencialTeorico.aux
 The style file: model5-names.bst
 Database file #1: referencias.bib
 Warning--entry type for "tecnicas-levantamento" isn't style-file defined
 --line 36 of file referencias.bib
+Warning--entry type for "conceito" isn't style-file defined
+--line 45 of file referencias.bib
+Warning--entry type for "transacionais" isn't style-file defined
+--line 54 of file referencias.bib
+Warning--entry type for "vertical" isn't style-file defined
+--line 63 of file referencias.bib
+Warning--entry type for "institucional" isn't style-file defined
+--line 73 of file referencias.bib
+Warning--entry type for "portais" isn't style-file defined
+--line 83 of file referencias.bib
+Warning--entry type for "portal-web" isn't style-file defined
+--line 92 of file referencias.bib
+I was expecting a `,' or a `}'---line 97 of file referencias.bib
+ :  
+ :  note={ Artigo Disponível em: \url{<https://www.liferay.com/pt/resources/l/web-portal>}, Acessado em: 14-10-2019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "b2c-web" isn't style-file defined
+--line 101 of file referencias.bib
+I was expecting a `,' or a `}'---line 106 of file referencias.bib
+ :  
+ :  note={ Artigo Disponível em: \url{<https://blog.olist.com/o-que-e-b2c-b2b-b2e-b2g-b2b2c-c2c-e-d2c-como-funcionam/amp/>}, Acessado em: 15-10-2019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "aplicativos-mobile" isn't style-file defined
+--line 109 of file referencias.bib
+I was expecting a `,' or a `}'---line 114 of file referencias.bib
+ :  
+ :  note={ Artigo Disponível em: \url{<http://tectriadebrasil.com.br/blog/2012/11/07/aplicativos-mobile-definicoes-historia-e-previsoes/>}, Acessado em: 11-10-2019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "nativo" isn't style-file defined
+--line 117 of file referencias.bib
+I was expecting a `,' or a `}'---line 122 of file referencias.bib
+ :  
+ :  note={ Artigo Disponível em: \url{<https://www.ilhasoft.com.br/o-que-sao-apps-nativos-e-como-eles-funcionam/>}, Acessado em: 11-10-2019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "hibrido" isn't style-file defined
+--line 126 of file referencias.bib
+I was expecting a `,' or a `}'---line 131 of file referencias.bib
+ :  
+ :  note={ Artigo Disponível em: \url{<http://revista.fatecgarca.edu.br/index.php/efatec/article/view/113/109/>}, Acessado em: 15-10-2019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "e-business" isn't style-file defined
+--line 136 of file referencias.bib
+Warning--entry type for "agenda" isn't style-file defined
+--line 144 of file referencias.bib
 Warning--entry type for "linkedin" isn't style-file defined
---line 44 of file referencias.bib
+--line 151 of file referencias.bib
 Warning--entry type for "3webbox" isn't style-file defined
---line 51 of file referencias.bib
+--line 158 of file referencias.bib
 Warning--entry type for "loba" isn't style-file defined
---line 58 of file referencias.bib
+--line 165 of file referencias.bib
 Warning--entry type for "newtechs" isn't style-file defined
---line 74 of file referencias.bib
-Repeated entry---line 81 of file referencias.bib
+--line 181 of file referencias.bib
+Repeated entry---line 188 of file referencias.bib
  : @electronic{newtechs
  :                     ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "markeninja" isn't style-file defined
---line 88 of file referencias.bib
+--line 195 of file referencias.bib
 Warning--entry type for "linkedin-b" isn't style-file defined
---line 96 of file referencias.bib
+--line 203 of file referencias.bib
 Warning--entry type for "linkedin-c" isn't style-file defined
---line 103 of file referencias.bib
+--line 210 of file referencias.bib
 Warning--entry type for "get-ninjasMobile" isn't style-file defined
---line 110 of file referencias.bib
+--line 217 of file referencias.bib
 Warning--entry type for "get-ninjasMobilea" isn't style-file defined
---line 117 of file referencias.bib
+--line 224 of file referencias.bib
 Warning--entry type for "housoft" isn't style-file defined
---line 125 of file referencias.bib
-Warning--entry type for "sbg" isn't style-file defined
---line 132 of file referencias.bib
-Warning--entry type for "sbg-1" isn't style-file defined
---line 141 of file referencias.bib
+--line 232 of file referencias.bib
+Warning--entry type for "prothues" isn't style-file defined
+--line 239 of file referencias.bib
 Warning--entry type for "get-ninjas" isn't style-file defined
---line 148 of file referencias.bib
+--line 262 of file referencias.bib
 Warning--entry type for "get-ninjas-a" isn't style-file defined
---line 155 of file referencias.bib
-Warning--entry type for "nexus-mod" isn't style-file defined
---line 165 of file referencias.bib
+--line 269 of file referencias.bib
 Warning--entry type for "catho" isn't style-file defined
---line 172 of file referencias.bib
+--line 286 of file referencias.bib
 Warning--entry type for "catho-1" isn't style-file defined
---line 179 of file referencias.bib
+--line 293 of file referencias.bib
 Warning--entry type for "catho-2" isn't style-file defined
---line 187 of file referencias.bib
+--line 301 of file referencias.bib
 Warning--entry type for "catho-3" isn't style-file defined
---line 194 of file referencias.bib
+--line 308 of file referencias.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in machado-2011
 Warning--empty journal in sommerville
-You've used 23 entries,
+You've used 32 entries,
             3390 wiz_defined-function locations,
-            763 strings with 8358 characters,
-and the built_in function-call counts, 9586 in all, are:
-= -- 735
-> -- 230
-< -- 23
-+ -- 93
-- -- 69
-* -- 719
-:= -- 1499
-add.period$ -- 49
-call.type$ -- 23
-change.case$ -- 138
-chr.to.int$ -- 22
-cite$ -- 25
-duplicate$ -- 866
-empty$ -- 785
-format.name$ -- 92
-if$ -- 1776
+            805 strings with 9916 characters,
+and the built_in function-call counts, 13273 in all, are:
+= -- 1028
+> -- 320
+< -- 32
++ -- 129
+- -- 96
+* -- 1007
+:= -- 2084
+add.period$ -- 73
+call.type$ -- 32
+change.case$ -- 199
+chr.to.int$ -- 31
+cite$ -- 34
+duplicate$ -- 1193
+empty$ -- 1078
+format.name$ -- 128
+if$ -- 2455
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 141
-newline$ -- 110
-num.names$ -- 92
-pop$ -- 474
+missing$ -- 189
+newline$ -- 152
+num.names$ -- 128
+pop$ -- 613
 preamble$ -- 1
-purify$ -- 115
+purify$ -- 160
 quote$ -- 0
-skip$ -- 284
+skip$ -- 398
 stack$ -- 0
-substring$ -- 293
-swap$ -- 381
+substring$ -- 402
+swap$ -- 538
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 204
+type$ -- 288
 warning$ -- 2
-while$ -- 69
+while$ -- 96
 width$ -- 0
-write$ -- 273
-(There was 1 error message)
+write$ -- 384
+(There were 6 error messages)

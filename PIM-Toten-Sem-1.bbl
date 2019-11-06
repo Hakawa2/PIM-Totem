@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{32}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -36,11 +36,28 @@
 \bibinfo{author}{{Catho Vagas}} (\bibinfo{year}{2019}).
 \newblock \bibinfo{note}{Catho Disponível em :
   \url{<https://www.catho.com.br/vagas/>}, Acessado em: 19/10/2019}.
-%Type = Book
-\bibitem[{{Diretores Roger Allers e Rob Minkoff}(1994)}]{rei-leao}
-\bibinfo{author}{{Diretores Roger Allers e Rob Minkoff}}
-  (\bibinfo{year}{1994}).
-\newblock {\it \bibinfo{title}{Rei Leão}\/}.
+%Type = Misc
+\bibitem[{{Conceito}(2011)}]{conceito}
+\bibinfo{author}{{Conceito}} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Conceito de sistema de informação}.
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<https://conceito.de/sistema-de-informacao>}, Acessado em: 13-10-2019}.
+%Type = Misc
+\bibitem[{{Débora Gomes}(2017)}]{e-business}
+\bibinfo{author}{{Débora Gomes}} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{E-business: Entenda tudo sobre negÓcios
+  eletrÔnicos}.
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<https://sambatech.com/blog/insights/e-business/>}, Acessado em:
+  13-10-2019}.
+%Type = Misc
+\bibitem[{{Followize}(2018)}]{vertical}
+\bibinfo{author}{{Followize}} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Portais verticais ou sites próprios: qual traz mais
+  vantagens para sua concessionária?}
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<https://www.followize.com.br/blog/197/portais-verticais-ou-sites-proprios-qual-traz-mais-vantagens-para-sua-concessionaria.html/>},
+  Acessado em: 19-10-2019}.
 %Type = Misc
 \bibitem[{{Get Ninjas}(2019)}]{get-ninjas}
 \bibinfo{author}{{Get Ninjas}} (\bibinfo{year}{2019}).
@@ -63,18 +80,39 @@
   \url{<https://www.startse.com/noticia/conteudo-memoravel/41960/estudo-de-caso-getninjas>},
   Acessado em: 19-10-2019}.
 %Type = Misc
+\bibitem[{{Google}(2019)}]{agenda}
+\bibinfo{author}{{Google}} (\bibinfo{year}{2019}).
+\newblock \bibinfo{note}{Agenda Google Disponível em :
+  \url{<https://calendar.google.com/calendar/r?tab=rc&pli=1/>}, Acessado em:
+  18-10-2019}.
+%Type = Misc
+\bibitem[{{Henrique Leal Tavares}(2016)}]{hibrido}
+\bibinfo{author}{{Henrique Leal Tavares}} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{IntroduÇÃo a desenvolvimento de aplicaÇÕes
+  hÍbridas}.
+%Type = Misc
 \bibitem[{{Housoft}(2019)}]{housoft}
 \bibinfo{author}{{Housoft}} (\bibinfo{year}{2019}).
 \newblock \bibinfo{note}{Housoft Disponível em :
   \url{<https://www.housoft.org/>}, Acessado em: 18-10-2019}.
 %Type = Misc
+\bibitem[{{INBOUND MARKETING}(2016)}]{institucional}
+\bibinfo{author}{{INBOUND MARKETING}} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{O que é e o que deve ter um site institucional}.
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<https://markeninja.com.br/site-institucional//>}, Acessado em:
+  09-10-2019}.
+%Type = Misc
 \bibitem[{{Janaína}(2009)}]{tecnicas-levantamento}
 \bibinfo{author}{{Janaína}} (\bibinfo{year}{2009}).
-\newblock \bibinfo{title}{Técnicas para levantamentos de requisitos
-  disponível em :}.
+\newblock \bibinfo{title}{Técnicas para levantamentos de requisitos}.
 \newblock \bibinfo{note}{Artigo Disponível em:
   \url{<http://https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151>},
   Acessado em: 13-10-2019}.
+%Type = Misc
+\bibitem[{{Liferay}(2016)}]{portal-web}
+\bibinfo{author}{{Liferay}} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{O que é web portal?}
 %Type = Misc
 \bibitem[{{LinkedIn}(2019{\natexlab{a}})}]{linkedin}
 \bibinfo{author}{{LinkedIn}} (\bibinfo{year}{2019}{\natexlab{a}}).
@@ -105,28 +143,36 @@
   \url{<https://markeninja.com.br/wp-content/uploads/2016/08/site-institucional-ou-loja-online-jpg_20160708034429-1.jpg>},
   Acessado em: 09-10-2019}.
 %Type = Misc
+\bibitem[{{Neuber Souza}(2016)}]{nativo}
+\bibinfo{author}{{Neuber Souza}} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{O que são apps nativos e como eles funcionam?}
+%Type = Misc
 \bibitem[{{Newtechs}(2019)}]{newtechs}
 \bibinfo{author}{{Newtechs}} (\bibinfo{year}{2019}).
 \newblock \bibinfo{note}{Imagem Disponível em :
   \url{<https://www.newtechs.com.br/careers_archive/portais-web/>}, Acessado
   em: 09-10-2019}.
 %Type = Misc
-\bibitem[{{Nexus Mod}(2019)}]{nexus-mod}
-\bibinfo{author}{{Nexus Mod}} (\bibinfo{year}{2019}).
-\newblock \bibinfo{note}{Nexus Mod Disponível em :
-  \url{<https://www.nexusmods.com/skyrim>}, Acessado em: 18-10-2019}.
+\bibitem[{{Rhayana Souza}(2017)}]{b2c-web}
+\bibinfo{author}{{Rhayana Souza}} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{B2c, b2b, b2e, b2g, b2b2c, c2c e d2c: o que é e qual
+  a diferença entre eles?}
 %Type = Misc
-\bibitem[{{SBG Auditoria}(2019)}]{sbg}
-\bibinfo{author}{{SBG Auditoria}} (\bibinfo{year}{2019}).
-\newblock \bibinfo{note}{SBG Disponível em :
-  \url{<http://www.sbg.com.br/sistema-erp-gestao-auditoria-software/>},
-  Acessado em: 18-10-2019}.
+\bibitem[{{Rodrigo Amorim Mota, Cristina Jasbinschek Haguenauer, Fabiana
+  Macieira Lawinscky, Francisco Cordeiro Filho }(2008)}]{portais}
+\bibinfo{author}{{Rodrigo Amorim Mota, Cristina Jasbinschek Haguenauer, Fabiana
+  Macieira Lawinscky, Francisco Cordeiro Filho }} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Portais de informaÇÃo e comunidades virtuais de
+  aprendizagem}.
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<http://www.abed.org.br/congresso2008/tc/59200862412PM.pdf>}, Acessado
+  em: 13-10-2019}.
 %Type = Misc
-\bibitem[{{SBG Controle de Estoque}(2019)}]{sbg-1}
-\bibinfo{author}{{SBG Controle de Estoque}} (\bibinfo{year}{2019}).
-\newblock \bibinfo{note}{SBG Disponível em :
-  \url{<http://www.sbg.com.br/sistema-erp-gestao-controle-estoque//>}, Acessado
-  em: 18-10-2019}.
+\bibitem[{{Sistemas Transacionais}(2011)}]{transacionais}
+\bibinfo{author}{{Sistemas Transacionais}} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Sistemas transacionais}.
+\newblock \bibinfo{note}{Artigo Disponível em:
+  \url{<http://sistemastransacionais.blogspot.com/>}, Acessado em: 22-10-2019}.
 %Type = Article
 \bibitem[{Sommerville(2003)}]{sommerville}
 \bibinfo{author}{Sommerville, I.} (\bibinfo{year}{2003}).
@@ -138,5 +184,16 @@
 \newblock \bibinfo{note}{Pesquisa Disponível em :
   \url{<https://www.statista.com/statistics/274050/quarterly-numbers-of-linkedin-members/>},
   Acessado em: 19-10-2019}.
+%Type = Misc
+\bibitem[{{Tectriade}(2012)}]{aplicativos-mobile}
+\bibinfo{author}{{Tectriade}} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{Aplicativos mobile: definições, história e
+  previsões}.
+%Type = Misc
+\bibitem[{{Totvs Protheus}(2018)}]{prothues}
+\bibinfo{author}{{Totvs Protheus}} (\bibinfo{year}{2018}).
+\newblock \bibinfo{note}{Housoft Disponível em :
+  \url{<https://www.totvs.com/blog/sistema-protheus/>}, Acessado em:
+  18-10-2019}.
 
 \end{thebibliography}
