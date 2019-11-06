@@ -25,15 +25,15 @@
 \contentsline {paragraph}{\numberline {2.3.2.1}A import\IeC {\^a}ncia dos sites institucionais}{15}{paragraph.2.3.2.1}% 
 \contentsline {subsubsection}{\numberline {2.3.3}Portais Web}{15}{subsubsection.2.3.3}% 
 \contentsline {subsubsection}{\numberline {2.3.4}Neg\IeC {\'o}cio eletr\IeC {\^o}nico}{16}{subsubsection.2.3.4}% 
-\contentsline {paragraph}{\numberline {2.3.4.1}B2B}{18}{paragraph.2.3.4.1}% 
+\contentsline {paragraph}{\numberline {2.3.4.1}B2B}{17}{paragraph.2.3.4.1}% 
 \contentsline {paragraph}{\numberline {2.3.4.2}B2C}{18}{paragraph.2.3.4.2}% 
 \contentsline {paragraph}{\numberline {2.3.4.3}C2B}{18}{paragraph.2.3.4.3}% 
 \contentsline {paragraph}{\numberline {2.3.4.4}B2E}{18}{paragraph.2.3.4.4}% 
-\contentsline {paragraph}{\numberline {2.3.4.5}E2B}{19}{paragraph.2.3.4.5}% 
+\contentsline {paragraph}{\numberline {2.3.4.5}E2B}{18}{paragraph.2.3.4.5}% 
 \contentsline {subsection}{\numberline {2.4}Aplicativos Mobile}{19}{subsection.2.4}% 
-\contentsline {subsubsection}{\numberline {2.4.1}Vantagens dos dispositivos mobile}{20}{subsubsection.2.4.1}% 
-\contentsline {subsubsection}{\numberline {2.4.2}Desvantagem dos dispositivos mobile}{20}{subsubsection.2.4.2}% 
-\contentsline {subsubsection}{\numberline {2.4.3}Nativo}{21}{subsubsection.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Vantagens dos dispositivos mobile}{19}{subsubsection.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}Desvantagem dos dispositivos mobile}{19}{subsubsection.2.4.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3}Nativo}{20}{subsubsection.2.4.3}% 
 \contentsline {subsubsection}{\numberline {2.4.4}H\IeC {\'\i }bridos}{21}{subsubsection.2.4.4}% 
 \contentsline {section}{\numberline {3}Cen\IeC {\'a}rios}{22}{section.3}% 
 \contentsline {subsection}{\numberline {3.1}Console}{22}{subsection.3.1}% 
